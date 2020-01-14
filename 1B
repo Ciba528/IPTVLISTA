@@ -1,0 +1,1385 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="LATINOS"
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC | ECUAVISA
+http://173.212.247.99/hls/tvec2.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC | CANELA TV
+http://inliveserver.com:1935/8074/8074/chunklist_w672863465.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC | OROMAR
+http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC | TELEAMAZONAS
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC | HECHOS TV
+http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC | TV MANABITA
+http://europa.tucableip.com:8181/tvmanabita/live/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC | CANAL1
+http://tucine.xyz:8080/TVEcuador/IkMbCx247/240
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC | CANAL1
+https://live2.tvenvivoecuador.com/hls/ec5as8ec12ec.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC |  Latacunga tv
+http://ad.mysisli.com/live/latacungatv2019/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC |  la nueva ecua sterero
+https://595b85410a151.streamlock.net/8060/8060/chunklist_w162432782.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC |  ECUADOR TV
+https://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8?PelixMax.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC |  TC MI CANAL
+https://5c21f7ec1999d.streamlock.net/8054/8054/chunklist_w1525917162.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC |  TC MI CANAL
+https://5c21f7ec1999d.streamlock.net/8054/8054/chunklist_w306579217.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC |  TC MI CANAL gye
+https://5c21f7ec1999d.streamlock.net/8054/8054/chunklist_w1592676002.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC |  Frecuencia Musical
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC |  Ecuador TV
+http://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC | HECHOS TV
+http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA | Canal CNC Pasto
+http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA | Amordiscos TV
+https://5b464b69d264e.streamlock.net/live/smil:Televitrola.smil/chunklist_w454440596_b1048000_slES.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA |LA SUPER
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA | RANCHENATO TV
+http://66.240.236.25:1936/ranchenato/smil:ranchenato.smil/chunklist_b1044100_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PERU | TURBO MIX TV
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PERU | HECHICERA TV
+http://167.114.116.212:1935/tv506/hechicera/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PERU | TV PERU
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA | CARACOL
+http://158.69.127.36:25461//streaming/clients_live.php?username=BbCHfcsrtx&password=WgdwT6jWfT&stream=271&extension=m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EC |  canal caracol internacional
+https://jimmy.zappingtv.com/caracol/caracol.smil/chunklist_b1628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTkyMCZ3b3d6YXRva2VuaGFzaD11NS03VzZPMDF2Q0lpN3N5WkxFTFpGZlpZUDJkQTBaU09zZVU0VzJCYUkwPQ==.m3u8?186.28.225.185
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | FX FHD
+http://roedor.xyz/SrRegioOficial/sp.php?c=21&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AyE
+http://roedor.xyz/SrRegioOficial/sp.php?c=22&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AXN
+http://roedor.xyz/SrRegioOficial/sp.php?c=23&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TruTV
+http://roedor.xyz/SrRegioOficial/sp.php?c=24&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Comedy Central
+http://roedor.xyz/SrRegioOficial/sp.php?c=25&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", E entertainment
+http://roedor.xyz/SrRegioOficial/sp.php?c=33&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Syfy
+http://roedor.xyz/SrRegioOficial/sp.php?c=34&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery ID
+http://roedor.xyz/SrRegioOficial/sp.php?c=35&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Kids
+http://roedor.xyz/SrRegioOficial/sp.php?c=46&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney Junior
+http://roedor.xyz/SrRegioOficial/sp.php?c=47&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney Channel
+http://roedor.xyz/SrRegioOficial/sp.php?c=49&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nick HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=51&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cartoon Network
+http://roedor.xyz/SrRegioOficial/sp.php?c=53&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney XD
+http://roedor.xyz/SrRegioOficial/sp.php?c=54&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Boomerang
+http://roedor.xyz/SrRegioOficial/sp.php?c=55&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", History
+http://roedor.xyz/SrRegioOficial/sp.php?c=59&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery World HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=61&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Channel
+http://roedor.xyz/SrRegioOficial/sp.php?c=62&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Home and Health
+http://roedor.xyz/SrRegioOficial/sp.php?c=64&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | NatGeo Channel FHD
+http://roedor.xyz/SrRegioOficial/sp.php?c=65&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lifetime
+http://roedor.xyz/SrRegioOficial/sp.php?c=66&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TLC
+http://roedor.xyz/SrRegioOficial/sp.php?c=69&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Series FHD
+http://roedor.xyz/SrRegioOficial/sp.php?c=71&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Fox Movies FHD
+http://roedor.xyz/SrRegioOficial/sp.php?c=73&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cinecanal HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=77&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TNT HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=78&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Golden HD Plus
+http://roedor.xyz/SrRegioOficial/sp.php?c=79&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AMC HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=82&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Morbido HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=85&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cinemax FHD
+http://roedor.xyz/SrRegioOficial/sp.php?c=86&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Studio Universal
+http://roedor.xyz/SrRegioOficial/sp.php?c=93&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=129&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | FX Movies FHD
+http://roedor.xyz/SrRegioOficial/sp.php?c=148&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Theater
+http://roedor.xyz/SrRegioOficial/sp.php?c=249&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Animal Planet HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=250&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Turbo
+http://roedor.xyz/SrRegioOficial/sp.php?c=251&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", SKY F1
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./7
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", SKY SPORTS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", CNN
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./9
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", GOLDEN
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./10
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TRU TV
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./11
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", H2
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./13
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", NICK JR
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./14
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", BANDAMAX
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./15
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", NICK TOONS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./16
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TCM
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./17
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", CDF
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", SIMPSON
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./19
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FUTURAMA
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./20
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DRAGON BALL
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./21
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISCOVERY KIDS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./22
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", CARTOON NETWORK
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./23
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISCOVERY WORD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./24
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISCOVERY THEATHER
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./25
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", NAT GEO WILD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./27
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", ANIMAL PLANET
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./28
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", NATGEO
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./29
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", AXN
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./30
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FOX LIFE
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./32
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", ESTRELLAS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./33
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", UNIVISION
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./34
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISTRITO COMEDIA
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./35
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TNT SERIE
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./36
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TNT
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./37
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", SPACE
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./38
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FOX MOVIE
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./39
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DIRECTV PLUS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./40
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DIRECTV SPORT
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./42
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", WIN SPORTS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./43
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FOX SPORTS 2 MX
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./46
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", ESPN 3
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./47
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", ESPN PLUS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./48
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", HISTORY
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./49
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TNT SPORT
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./50
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TLNOVELAS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./51
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TLC
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./53
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISCOVERY CHANNEL
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./61
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", INVESTIGATION DISCOVERY
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./26
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Caracol
+http://roedor.xyz/SrRegioOficial/sp.php?c=271&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Unimas
+http://roedor.xyz/SrRegioOficial/sp.php?c=273&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latino | Win Sports
+http://roedor.xyz/SrRegioOficial/sp.php?c=274&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PR | Mega TV
+http://roedor.xyz/SrRegioOficial/sp.php?c=275&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PR | Punto 2
+http://roedor.xyz/SrRegioOficial/sp.php?c=277&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PR | WIPR
+http://roedor.xyz/SrRegioOficial/sp.php?c=279&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PR | WAPA 2
+http://roedor.xyz/SrRegioOficial/sp.php?c=281&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | A&E
+http://roedor.xyz/SrRegioOficial/sp.php?c=282&f=.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVE
+http://roedor.xyz/SrRegioOficial/sp.php?c=573&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Antena3
+http://roedor.xyz/SrRegioOficial/sp.php?c=574&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | MTV Live HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=575&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Telehit HD Plus
+http://roedor.xyz/SrRegioOficial/sp.php?c=576&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | VH1 HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=577&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX|HD AzClic HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=578&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | MTV HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=579&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | MTV Hits
+http://roedor.xyz/SrRegioOficial/sp.php?c=580&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | VH1 Classics
+http://roedor.xyz/SrRegioOficial/sp.php?c=581&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Bandamax
+http://roedor.xyz/SrRegioOficial/sp.php?c=582&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | AzCorazon
+http://roedor.xyz/SrRegioOficial/sp.php?c=584&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX|HD Teleritmo
+http://roedor.xyz/SrRegioOficial/sp.php?c=588&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Baby First
+http://roedor.xyz/SrRegioOficial/sp.php?c=589&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A3series
+http://roedor.xyz/SrRegioOficial/sp.php?c=590&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Nick2
+http://roedor.xyz/SrRegioOficial/sp.php?c=591&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Havoc
+http://roedor.xyz/SrRegioOficial/sp.php?c=592&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Discovery Turbo
+http://roedor.xyz/SrRegioOficial/sp.php?c=593&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Hbo FAM
+http://roedor.xyz/SrRegioOficial/sp.php?c=595&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX|HD Azteca Uno HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=471&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Canal De Las Estrellas
+http://roedor.xyz/SrRegioOficial/sp.php?c=472&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | ImagenTV
+http://roedor.xyz/SrRegioOficial/sp.php?c=473&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | ForoTv
+http://roedor.xyz/SrRegioOficial/sp.php?c=474&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Canal 5
+http://roedor.xyz/SrRegioOficial/sp.php?c=475&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Azteca7
+http://roedor.xyz/SrRegioOficial/sp.php?c=476&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | GalaTV HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=477&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Canal 11 HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=478&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX|HD Mexiquense
+http://roedor.xyz/SrRegioOficial/sp.php?c=480&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Ingenio Tv
+http://roedor.xyz/SrRegioOficial/sp.php?c=481&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Teleformula
+http://roedor.xyz/SrRegioOficial/sp.php?c=482&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX|HD Multimedios
+http://roedor.xyz/SrRegioOficial/sp.php?c=483&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Fox Channel
+http://roedor.xyz/SrRegioOficial/sp.php?c=484&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Sony
+http://roedor.xyz/SrRegioOficial/sp.php?c=485&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Warner Bros
+http://roedor.xyz/SrRegioOficial/sp.php?c=486&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Universal Channel
+http://roedor.xyz/SrRegioOficial/sp.php?c=487&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | FX
+http://roedor.xyz/SrRegioOficial/sp.php?c=488&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | AyE
+http://roedor.xyz/SrRegioOficial/sp.php?c=489&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | AXN
+http://roedor.xyz/SrRegioOficial/sp.php?c=490&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | TruTV
+http://roedor.xyz/SrRegioOficial/sp.php?c=491&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Unicable
+http://roedor.xyz/SrRegioOficial/sp.php?c=493&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | HolaTV
+http://roedor.xyz/SrRegioOficial/sp.php?c=494&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | MasChic
+http://roedor.xyz/SrRegioOficial/sp.php?c=495&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Food Network
+http://roedor.xyz/SrRegioOficial/sp.php?c=496&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX|HD TVC
+http://roedor.xyz/SrRegioOficial/sp.php?c=497&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | E! entertainment
+http://roedor.xyz/SrRegioOficial/sp.php?c=500&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Syfy
+http://roedor.xyz/SrRegioOficial/sp.php?c=501&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Discovery Investigation
+http://roedor.xyz/SrRegioOficial/sp.php?c=502&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | TNT Series
+http://roedor.xyz/SrRegioOficial/sp.php?c=503&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | El Gourmet
+http://roedor.xyz/SrRegioOficial/sp.php?c=504&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | El Garage
+http://roedor.xyz/SrRegioOficial/sp.php?c=505&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Glitz
+http://roedor.xyz/SrRegioOficial/sp.php?c=506&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | FoxLife
+http://roedor.xyz/SrRegioOficial/sp.php?c=507&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Distrito Comedia
+http://roedor.xyz/SrRegioOficial/sp.php?c=508&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | TBS
+http://roedor.xyz/SrRegioOficial/sp.php?c=509&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Tlnovelas
+http://roedor.xyz/SrRegioOficial/sp.php?c=510&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | AzMundo
+http://roedor.xyz/SrRegioOficial/sp.php?c=511&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | BabyTv
+http://roedor.xyz/SrRegioOficial/sp.php?c=512&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Discovery Kids
+http://roedor.xyz/SrRegioOficial/sp.php?c=513&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Disney Junior
+http://roedor.xyz/SrRegioOficial/sp.php?c=514&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Nick Junior
+http://roedor.xyz/SrRegioOficial/sp.php?c=515&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Disney Channel
+http://roedor.xyz/SrRegioOficial/sp.php?c=516&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | NickToons
+http://roedor.xyz/SrRegioOficial/sp.php?c=517&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Nick HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=518&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Cartoon Network
+http://roedor.xyz/SrRegioOficial/sp.php?c=519&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Disney XD
+http://roedor.xyz/SrRegioOficial/sp.php?c=520&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Boomerang
+http://roedor.xyz/SrRegioOficial/sp.php?c=521&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Tooncast
+http://roedor.xyz/SrRegioOficial/sp.php?c=522&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Discovery Theater HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=523&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | History
+http://roedor.xyz/SrRegioOficial/sp.php?c=524&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | NatGeo Wild
+http://roedor.xyz/SrRegioOficial/sp.php?c=525&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Discovery World HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=526&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Discovery Channel
+http://roedor.xyz/SrRegioOficial/sp.php?c=527&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Animal Planet
+http://roedor.xyz/SrRegioOficial/sp.php?c=528&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Discovery Home and He
+http://roedor.xyz/SrRegioOficial/sp.php?c=529&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | NatGeo Channel
+http://roedor.xyz/SrRegioOficial/sp.php?c=530&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Lifetime&f=.m3u8
+http://roedor.xyz/SrRegioOficial/sp.php?c=531&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Discovery Scienc
+http://roedor.xyz/SrRegioOficial/sp.php?c=532&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Discovery Civilization
+http://roedor.xyz/SrRegioOficial/sp.php?c=533&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | TLC
+http://roedor.xyz/SrRegioOficial/sp.php?c=534&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Wobi
+http://roedor.xyz/SrRegioOficial/sp.php?c=535&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Fox Series HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=536&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Fox Action HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=537&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Fox Movies
+http://roedor.xyz/SrRegioOficial/sp.php?c=538&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Fox Cinema
+http://roedor.xyz/SrRegioOficial/sp.php?c=539&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Fox Classics
+http://roedor.xyz/SrRegioOficial/sp.php?c=540&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | AzCinema HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=541&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Cinecanal HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=542&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | TNT HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=543&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Golden HD Plus
+http://roedor.xyz/SrRegioOficial/sp.php?c=544&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | FX Movies HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=545&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | De Pelicula HD Plus
+http://roedor.xyz/SrRegioOficial/sp.php?c=546&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | AMC HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=547&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Space HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=548&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Sundance Tv HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=549&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX|HD Morbido HD
+http://roedor.xyz/SrRegioOficial/sp.php?c=550&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Cinemax
+http://roedor.xyz/SrRegioOficial/sp.php?c=551&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Golden
+http://roedor.xyz/SrRegioOficial/sp.php?c=552&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Golden Edge
+http://roedor.xyz/SrRegioOficial/sp.php?c=553&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX|HD De Pelicula
+http://roedor.xyz/SrRegioOficial/sp.php?c=554&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Studio Universal
+http://roedor.xyz/SrRegioOficial/sp.php?c=555&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Eeuropa Europa
+http://roedor.xyz/SrRegioOficial/sp.php?c=556&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Film & Arts
+http://roedor.xyz/SrRegioOficial/sp.php?c=557&f=.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UltraLuna
+http://roedor.xyz/SrRegioOficial/sp.php?c=421&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UltraCine
+http://roedor.xyz/SrRegioOficial/sp.php?c=422&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UltraMex
+http://roedor.xyz/SrRegioOficial/sp.php?c=423&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UltraFiesta
+http://roedor.xyz/SrRegioOficial/sp.php?c=424&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UltraFilm
+http://roedor.xyz/SrRegioOficial/sp.php?c=425&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UltraMacho
+http://roedor.xyz/SrRegioOficial/sp.php?c=426&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UltraClasico
+http://roedor.xyz/SrRegioOficial/sp.php?c=427&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UltraFamilia
+http://roedor.xyz/SrRegioOficial/sp.php?c=428&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", orbita tv
+http://roedor.xyz/SrRegioOficial/sp.php?c=433&f=.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AZTECA CINEMA
+http://158.69.127.36:25461//streaming/clients_live.php?username=BbCHfcsrtx&password=WgdwT6jWfT&stream=541&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24horas
+http://roedor.xyz/SrRegioOficial/sp.php?c=435&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", france24hd
+http://roedor.xyz/SrRegioOficial/sp.php?c=436&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", canal44
+http://roedor.xyz/SrRegioOficial/sp.php?c=438&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", estrellatv
+http://roedor.xyz/SrRegioOficial/sp.php?c=440&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PacificoTV
+http://roedor.xyz/SrRegioOficial/sp.php?c=441&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", zeemundo
+http://roedor.xyz/SrRegioOficial/sp.php?c=443&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", naturevision
+http://roedor.xyz/SrRegioOficial/sp.php?c=444&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", supercanal
+http://roedor.xyz/SrRegioOficial/sp.php?c=449&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", tele-el-salvador
+http://roedor.xyz/SrRegioOficial/sp.php?c=450&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", c7jalisco
+http://roedor.xyz/SrRegioOficial/sp.php?c=453&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", cubaplay
+http://roedor.xyz/SrRegioOficial/sp.php?c=454&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", insight_tv
+http://roedor.xyz/SrRegioOficial/sp.php?c=445&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", cbtv
+http://roedor.xyz/SrRegioOficial/sp.php?c=452&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", gran cine
+http://roedor.xyz/SrRegioOficial/sp.php?c=455&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", telen
+http://roedor.xyz/SrRegioOficial/sp.php?c=457&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", sorpresa
+http://roedor.xyz/SrRegioOficial/sp.php?c=456&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", dominican view
+http://roedor.xyz/SrRegioOficial/sp.php?c=458&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", telemicro
+http://roedor.xyz/SrRegioOficial/sp.php?c=460&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", lasusa
+http://roedor.xyz/SrRegioOficial/sp.php?c=459&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", sonlife spanish
+http://roedor.xyz/SrRegioOficial/sp.php?c=461&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", enlace
+http://roedor.xyz/SrRegioOficial/sp.php?c=462&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", aliento vision
+http://roedor.xyz/SrRegioOficial/sp.php?c=463&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", senal de vida
+http://roedor.xyz/SrRegioOficial/sp.php?c=464&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", canal 44
+http://roedor.xyz/SrRegioOficial/sp.php?c=465&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fix and Foxi
+http://roedor.xyz/SrRegioOficial/sp.php?c=467&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ultra docu
+http://roedor.xyz/SrRegioOficial/sp.php?c=468&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ultra banda
+http://roedor.xyz/SrRegioOficial/sp.php?c=469&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ultrat ainment
+http://roedor.xyz/SrRegioOficial/sp.php?c=470&f=.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", CNN
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./9
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", GOLDEN
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./10
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TRU TV
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./11
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", H2
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./13
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", NICK JR
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./14
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", BANDAMAX
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./15
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", NICK TOONS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./16
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TCM
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./17
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", CDF
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", SIMPSON
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./19
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FUTURAMA
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./20
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DRAGON BALL
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./21
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISCOVERY KIDS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./22
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", CARTOON NETWORK
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./23
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISCOVERY WORD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./24
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISCOVERY THEATHER
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./25
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", NAT GEO WILD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./27
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", ANIMAL PLANET
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./28
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", NATGEO
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./29
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", AXN
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./30
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FOX LIFE
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./32
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", ESTRELLAS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./33
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", UNIVISION
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./34
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISTRITO COMEDIA
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./35
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TNT SERIE
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./36
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TNT
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./37
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", SPACE
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./38
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FOX MOVIE
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./39
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DIRECTV PLUS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./40
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DIRECTV SPORTS 2
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./41
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DIRECTV SPORT
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./42
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", WIN SPORTS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./43
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FOX SPORTS 3 MX
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./45
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FOX SPORTS 2 MX
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./46
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", ESPN 3
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./47
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", ESPN PLUS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./48
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", HISTORY
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./49
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TNT SPORT
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./50
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TLNOVELAS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./51
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TLC
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./53
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", NICK
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./55
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISCOVERY TURBO
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./59
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISCOVERY HOME AND HEALTH
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./60
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISCOVERY CHANNEL
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./61
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", HBO FAMILY
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./63
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", HBO 2
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./64
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", HBO
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./65
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FOX FAMILY
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./67
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FOX ACTION
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./68
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FOX
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./69
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FOX SPORTS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./72
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", MOVISTAR ESTRENOS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./75
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", MOVISTAR SERIES
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./76
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", ECUAVISA
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./78
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", ESPN
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./79
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", INVESTIGATION DISCOVERY
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./26
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", BEIN SPORTS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./21923
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="PREMIUM HD", PREMIUM | A&E HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18606
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="PREMIUM HD", PREMIUM | AXN HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18607
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="PREMIUM HD", PREMIUM | ANIMAL PLANET HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18608
+
+#EXTINF:-1 tvg-logo="http://www.tvcomsahagun.com/img/canales/med_gallery_1163_2_6112.png" group-title="PREMIUM HD", PREMIUM | AZ CORAZON HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18609
+
+#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/214-2146336_new-boomerang-logo-recreation-boomerang-channel-logo-png.png" group-title="PREMIUM HD", PREMIUM | BOOMERANG HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18610
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="PREMIUM HD", PREMIUM | COMEDY CENTRAL HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18611
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="PREMIUM HD", PREMIUM | CINEMAX HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18613
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="PREMIUM HD", PREMIUM | CINECANAL HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18614
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1280px-Cartoon_Network_logo.svg.png" group-title="PREMIUM HD", PREMIUM | CARTOON NETWORK HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18615
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1280px-Disney_XD_-_2015.svg.png" group-title="PREMIUM HD", PREMIUM | DISNEY XD HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18616
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Disney_Junior.png" group-title="PREMIUM HD", PREMIUM | DISNEY JR. HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18617
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="PREMIUM HD", PREMIUM | DISNEY CHANNEL HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18618
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="PREMIUM HD", PREMIUM | DISCOVERY WORLD HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18619
+
+#EXTINF:-1 tvg-logo="https://cdn2.admin-tudiscovery.com/sites/default/files/2018-12/TURBO-Logo-white_0.png" group-title="PREMIUM HD", PREMIUM | DISCOVERY TURBO HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18620
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="PREMIUM HD", PREMIUM | DISCOVERY THEATER HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18621
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="PREMIUM HD", PREMIUM | DISCOVERY SCIENCE HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18622
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="PREMIUM HD", PREMIUM | DE PELICULA HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18628
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="Radio", TecnoRadio
+http://node-12.zeno.fm:80/qvq7sm8mymzuv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", BT SPORTS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", BT SPORTS 2
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", EURO SPORTS 1
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", GOLF CHANNEL
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./6
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", SKY F1
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./7
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", SKY SPORTS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", CNN
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./9
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", GOLDEN
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./10
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TRU TV
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./11
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", H2
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./13
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", NICK JR
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./14
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", BANDAMAX
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./15
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", NICK TOONS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./16
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TCM
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./17
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", CDF
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./18
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", SIMPSON
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./19
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FUTURAMA
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./20
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DRAGON BALL
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./21
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISCOVERY KIDS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./22
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", CARTOON NETWORK
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./23
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISCOVERY WORD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./24
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISCOVERY THEATHER
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./25
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", NAT GEO WILD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./27
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", ANIMAL PLANET
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./28
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", NATGEO
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./29
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", AXN
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./30
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FOX LIFE
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./32
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", ESTRELLAS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./33
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", UNIVISION
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./34
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISTRITO COMEDIA
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./35
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TNT SERIE
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./36
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TNT
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./37
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", SPACE
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./38
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FOX MOVIE
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./39
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DIRECTV PLUS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./40
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DIRECTV SPORT
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./42
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", WIN SPORTS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./43
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", FOX SPORTS 2 MX
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./46
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", ESPN 3
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./47
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", ESPN PLUS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./48
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", HISTORY
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./49
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TNT SPORT
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./50
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TLNOVELAS
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./51
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", TLC
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./53
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", DISCOVERY CHANNEL
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./61
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", INVESTIGATION DISCOVERY
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./26
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/2000px-I.Sat_logo.svg.png" group-title="PREMIUM HD", PREMIUM | I SAT HD
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./20871
+
+#EXTINF:-1 tvg-logo="http://ecuaplaytv.com:8000/images/Zv6VJYf2NhrXY3ue8PHXee7q4rt0WyAa.png" group-title="PREMIUM HD", PREMIUM | LIFETIME
+http://148.251.30.146:25461/SERVIDORPLEXANGELO/SERVIDORPLEXANGELO./20872
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="NOTICIAS", Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mediavyasa.com.mx/archivos/representantes/logo/logoteleformula.jpg" group-title="NOTICIAS", TELEFORMULA
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.abctelefonos.com/images/comercios/289120_60288_original.jpg" group-title="NOTICIAS", Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 tvg-logo="https://s24.postimg.org/w4ih3sa1h/image.png" group-title="NOTICIAS", ABC NEWS
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/413.jpg" group-title="NOTICIAS", Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mVTac/49057b2eb0.png" group-title="NOTICIAS", Bloomberg USA
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mVTac/49057b2eb0.png" group-title="NOTICIAS", Bloomberg Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/cbs.png" group-title="NOTICIAS", CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BFMMPwP.png" group-title="NOTICIAS", France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.famouslogos.us/images/nbc-logo.jpg" group-title="NOTICIAS", NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/skyNEWS.jpg" group-title="NOTICIAS", Sky NEWS
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/skyNEWS.jpg" group-title="NOTICIAS", Sky NEWS
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.voanoticias.com/Content/responsive/VOA/img/webApp/ico-192x192.png" group-title="NOTICIAS", VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Syrian_News_Logo.png/220px-Syrian_News_Logo.png" group-title="NOTICIAS", Syria News
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/604916087180754945/1aMHMBIj.png" group-title="NOTICIAS", TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Rp6PKpt.jpg" group-title="NOTICIAS", WGN Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Channels", ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Channels", La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Channels", Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Channels", Navarra TV*
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Channels", TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Channels", PT: APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Channels", PT: MASTER TV HD
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Channels", SP: ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Channels", TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Channels", Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", 7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", Fight Time (Opt-1)
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", Real Madrid TV (Opt-1)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", Real Madrid TV (Opt-2)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", 24 Horas
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", A Punt
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", TVG Xabarin
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", Vega Baja TV
+http://185.29.68.24/tvb.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/" group-title="ENTRETENIMIENTO", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/" group-title="ENTRETENIMIENTO", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EXTREMA
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AD SPPORT
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JuJyG1P.png" group-title="PERU", Antares TV | SD
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="PERU", Ovacion | SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eqpww5i.png" group-title="PERU", Turbo Mix Radio TV | SD
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL 8
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPAÑA", Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lancelot TV PELI
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tdcgroup.org/media_library/logos_files/wowtv_logo.png" group-title="Entretenimiento", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", Multimedios Monterrey | HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", Multimedios Laguna | HD
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VHSjbEj.png" group-title="MEXICO", Milenio | SD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Puebla | HD
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Aguacalientes | HD
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dFQBOLD.png" group-title="MEXICO", Canal Once IPN  Int. | HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMgoMeO.png" group-title="MEXICO", Canal 20 Zacatecas | SD
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png" group-title="MEXICO", Capital 21 | SD
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hxpSI0R.png" group-title="MEXICO", RCG 2 | SD
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LEBQ8B5.png" group-title="MEXICO", RCG 3 | SD
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kgnflq9.png" group-title="ESPAÑA", FDF | HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmMGr10.png" group-title="ESPAÑA", Divinity | HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHaTdZk.png" group-title="ESPAÑA", La Xarxa | SD
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNXH4cj.png" group-title="ESPAÑA", Real Madrid TV | SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qUB3ggl.png" group-title="ESPAÑA", Lancelot TV | SD
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3TGxQ3O.png" group-title="ESPAÑA", ETBSAT | SD
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OKXbIr9.png" group-title="ESPAÑA", Lebrija TV | SD
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJTCoH8.png" group-title="ESPAÑA", Levante TV | SD
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="ESPAÑA", TV Galicia America | SD
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="ESPAÑA", TV Galicia Europa | SD
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PrhB3SI.jpg" group-title="ESPAÑA", TeleSafor | HD
+http://video.telesafor.com/hls/video_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4ig3Hn.png" group-title="ESPAÑA", 7TV | SD
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HGma9m.png" group-title="CHILE", CDO | SD
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozCnnDg.png" group-title="CHILE", TV Senado | HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="CHILE", TVN Señal de Pruebas | HD
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="ARGENTINA", Canal 26 | HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="ARGENTINA", Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmFK5y8.gif" group-title="ARGENTINA", Canal Provincial | SD
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiW6vgk.jpg" group-title="ARGENTINA", Litus | HD
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6R4VLDZ.jpg" group-title="ARGENTINA", El Garaje TV | SD
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vWyTg5L.png" group-title="HONDURAS", Teleceiba Canal 7 | SD
+http://190.11.224.14:8134/liveevent.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VkhYiMT.png" group-title="HONDURAS", TV Azteca Honduras | SD
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="COSTA RICA", TV Sur | SD
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zkfw06k.jpg" group-title="COSTA RICA", Ticavision | SD
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="SALVADOR", WOW TV | SD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
